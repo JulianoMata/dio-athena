@@ -58,7 +58,8 @@ Professor - [Cassiano Peres](https://github.com/cassianobrexbit/dio-live-athena 
 
 ![](https://uploaddeimagens.com.br/images/004/083/028/original/imagem_dio.jpg)
 
-![](https://uploaddeimagens.com.br/images/004/083/032/original/dio.png){.text-center}
+
+
 
 
 
