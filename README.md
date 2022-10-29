@@ -11,7 +11,7 @@ Repositório sobre o Amazon Athena
 
 ### Criar bucket no Amazon S3
 
-- {c: Amazon S3 Console -> Buckets -> Create bucket -> Bucket name [nome_do bucket] - Create bucket
+- Amazon S3 Console -> Buckets -> Create bucket -> Bucket name [nome_do bucket] - Create bucket
 - Create folder (Criar uma pasta chamada ```/output``` e outra com o nome do seu conjunto de dados. Este nome irá definir o nome da tabela criada no Glue)
 - Upload dos arquivos de dados localizados na pasta ```/data```
 
